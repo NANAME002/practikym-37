@@ -1,0 +1,11 @@
+body {
+    background-color: aquamarine;
+}
+.wrapper {
+    border-radius: 40px;
+width: 1200px;
+background-color: aliceblue;
+margin: 0 auto;
+display: flex;
+
+}
